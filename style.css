@@ -1,0 +1,33 @@
+body{
+    font-size: 15px;
+}
+.container{
+    margin-top: 7%;
+}
+.form-label{
+    margin-bottom: 1px;
+}
+.form-control{
+    padding: 0px;
+    background-color: rgba(201, 217, 230, 0.856);
+    border-radius: 0px;
+    height: 22px;
+}
+.col-lg-3{
+    padding-right: 0%;
+}
+.col-lg-2{
+    padding-right: 0%;
+}
+.col-lg-4{
+    padding-right: 0%;
+}
+.pe-1{
+    text-align: justify;
+    font-weight: 700;
+}
+.a{
+    background-color: rgba(201, 217, 230, 0.856);
+    height: 22px;
+    border: none;
+}
